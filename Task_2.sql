@@ -14,4 +14,4 @@ INSERT EMPLOYEE VALUES
 
 -- Solution
 
-SELECT name ,Salary from EMPLOYEE ;
+SELECT Name ,Salary from EMPLOYEE ;
